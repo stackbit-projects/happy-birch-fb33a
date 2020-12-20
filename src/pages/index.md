@@ -36,9 +36,9 @@ sections:
         image: images/feature2.png
         image_alt: App users welcoming a new member
         content: >-
-          Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
-          sapien interdum luctus. Cras rhoncus condimentum metus sit amet
-          auctor.
+          Set and forget - simple, flexible read rules enable your team to
+          receive automated reminders as and when they are due to re-read a
+          policy or procedure.
         actions:
           - label: Learn More
             url: /features
