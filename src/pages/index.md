@@ -19,7 +19,7 @@ sections:
     title: Features
     subtitle: Find out what makes us a no-brainer for your team.
     features:
-      - title: The Best Feature of Your Services
+      - title: Role based staff onboarding blueprints.
         image: images/feature1.png
         image_alt: App preview on a phone and tablet
         content: >-
