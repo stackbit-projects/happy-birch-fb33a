@@ -4,7 +4,7 @@ sections:
   - section_id: pricing
     type: section_pricing
     background: gray
-    title: Ultra Simple Pricing
+    title: 'Ultra Simple, per Pricing'
     subtitle: 30 day money back guarantee!
     pricing_plans:
       - title: Basic
