@@ -11,10 +11,11 @@ sections:
         subtitle: For small businesses
         price: £59/m
         details: |-
-          * Lorem ipsum dolor sit amet
-          * Mauris a mi tincidunt
-          * Suspendisse ut lacus
-          * Etiam eget dui a augue
+          * Up to 50 active users
+          * Unlimited policies
+          * Unlimited historical data
+          * Automated email reminders
+          * Email support
         actions:
           - label: Order Now
             url: /signup
