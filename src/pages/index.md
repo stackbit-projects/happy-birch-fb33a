@@ -62,7 +62,7 @@ sections:
   - section_id: call-to-action
     type: section_cta
     title: Request a demo today!
-    subtitle: 'We''re ready and waiting to help streamline your '
+    subtitle: 'Whilst we can''t guarntee '
     actions:
       - label: Get Started
         url: /signup
