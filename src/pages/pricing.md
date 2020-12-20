@@ -32,8 +32,8 @@ sections:
           Yes! We understand there's a lot to get setup before your team can
           make full use of the system. We offer a bespoke onboarding solution to
           all customers. This currently includes bulk setup of staff user
-          accounts, and import policies. You can provide policies to us in most
-          document formats including PDF and Word Doc.
+          accounts, and importing of policies. You can provide policies to us in
+          most document formats including PDF and Word Doc.
 
           We offer this solution at a flat rate of £199.
       - question: What is classed as an 'active' user?
