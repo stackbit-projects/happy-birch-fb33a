@@ -22,7 +22,7 @@ sections:
             url: /signup
             style: primary
       - title: Enterprise
-        subtitle: T
+        subtitle: Tailored
         price: $149/m
         details: |-
           * Vestibulum non eros quis
