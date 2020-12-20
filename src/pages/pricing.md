@@ -43,7 +43,7 @@ sections:
           are deleted, or removed from your organisation. The term active does
           not refer to how often the user logs in to, or interacts with the
           system.
-      - question: Sed scelerisque in ipsum eu sollicitudin?
+      - question: What does email support include?
         answer: >-
           Nullam quis ultrices ipsum. Integer eleifend laoreet quam, ac
           dignissim nisi mollis eget. Ut vitae nisi sit amet nisi suscipit
