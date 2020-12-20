@@ -62,7 +62,7 @@ sections:
   - section_id: call-to-action
     type: section_cta
     title: Get started today!
-    subtitle: Get started today. 30 day money back guarantee.
+    subtitle: 30 day money back guarantee.
     actions:
       - label: Get Started
         url: /signup
