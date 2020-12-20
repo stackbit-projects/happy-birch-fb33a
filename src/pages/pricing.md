@@ -21,7 +21,7 @@ sections:
             url: /signup
             style: secondary
       - title: Professional
-        subtitle: For medium-sized businesses
+        subtitle: Per user pricing
         price: £4/m
         details: |
           * Unlimited users
