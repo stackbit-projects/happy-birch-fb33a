@@ -38,9 +38,11 @@ sections:
           We offer this solution at a flat rate of £199.
       - question: What is classed as an 'active' user?
         answer: >-
-          Nunc sollicitudin libero tincidunt felis pretium, consectetur aliquam
-          eros placerat. Sed neque neque, bibendum a pulvinar id, pellentesque
-          eget velit. 
+          A user is classed as *active* from the point at which they are added
+          to your organisation. A user is no longer classed as active if they
+          are deleted, or removed from your organisation. The term active does
+          not refer to how often the user logs in to, or interacts with the
+          system.
       - question: Sed scelerisque in ipsum eu sollicitudin?
         answer: >-
           Nullam quis ultrices ipsum. Integer eleifend laoreet quam, ac
