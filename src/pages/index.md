@@ -5,7 +5,7 @@ sections:
     type: section_hero
     image: images/1.jpg
     image_alt: App preview
-    title: 'Improve quality, maintain compliance '
+    title: 'Improve quality and maintain compliance '
     content: >-
       Azimuth is the perfect theme for developers, designers and entrepreneurs
       who need a sleek, modern SaaS site. 
