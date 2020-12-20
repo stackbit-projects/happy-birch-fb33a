@@ -63,7 +63,7 @@ sections:
     type: section_reviews
     background: white
     title: Testimonials
-    subtitle: Don't just take our word for it. Here's what others think...
+    subtitle: Don't just take our word for it. See what others think...
     reviews:
       - author: John Doe
         avatar: images/review1.jpg
