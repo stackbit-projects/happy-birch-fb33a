@@ -22,7 +22,7 @@ sections:
             url: /signup
             style: primary
       - title: Enterprise
-        subtitle: 'Custom pricing and '
+        subtitle: Tailored pricing
         price: $149/m
         details: |-
           * Vestibulum non eros quis
