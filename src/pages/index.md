@@ -50,9 +50,8 @@ sections:
         image: images/feature3.png
         image_alt: App user profile preview
         content: >-
-          In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean
-          quis venenatis sem. Proin eget massa id metus eleifend maximus sit
-          amet nec urna.
+          Detailed audit trail of who has read what, when. Reduce the time it
+          takes to produce information for quality and compliance inspections.
         actions:
           - label: Learn More
             url: /features
