@@ -8,7 +8,7 @@ sections:
     subtitle: 'No additional costs, and 30 day money back guarantee!'
     pricing_plans:
       - title: Professional
-        subtitle: Per user pricing
+        subtitle: Pay per user
         price: £4/m
         details: |
           * Unlimited active users
