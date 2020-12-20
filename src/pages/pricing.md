@@ -25,7 +25,7 @@ sections:
     type: section_faq
     background: gray
     title: Frequently Asked Questions
-    subtitle: 'Phasellus luctus laoreet arcu, vel porta metus imperdiet sit amet.'
+    subtitle: In case you were wondering...
     faq_items:
       - question: Do you offer a setup or data import service?
         answer: >-
