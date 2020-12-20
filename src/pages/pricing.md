@@ -8,7 +8,7 @@ sections:
     subtitle: 'No hidden additional costs, and 30 day money back guarantee!'
     pricing_plans:
       - title: Basic
-        subtitle: 'Per user '
+        subtitle: Per user pricing
         price: £4/m
         details: |
           * Up to 50 active users
