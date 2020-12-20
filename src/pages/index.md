@@ -23,9 +23,8 @@ sections:
         image: images/feature1.png
         image_alt: App preview on a phone and tablet
         content: >-
-          Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
-          aliquet luctus, lorem risus volutpat dolor, nec dignissim diam neque
-          consequat ex.
+          Ensure new team members are quickly up to speed with policies specific
+          to their role when onboarding.
         actions:
           - label: Learn More
             url: /features
