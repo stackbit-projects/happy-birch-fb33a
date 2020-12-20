@@ -23,12 +23,12 @@ sections:
       - title: Professional
         subtitle: For medium-sized businesses
         price: £69/m
-        details: |-
-          * Curabitur non nunc mollis
-          * Duis a purus nec ligula pellentesque dolor
-          * Pellentesque sit amet
-          * Fusce tempus mi vitae luctus
-          * Nullam sollicitudin ante
+        details: |
+          * Unlimited users
+          * Unlimited policies
+          * Unlimited historical data
+          * Automated email reminders
+          * Email support
         highlight: true
         actions:
           - label: Order Now
