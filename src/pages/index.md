@@ -62,9 +62,7 @@ sections:
   - section_id: call-to-action
     type: section_cta
     title: Request a demo today!
-    subtitle: >-
-      We know policies aren't the most exciting thing, but let's at least make
-      managing them simple!
+    subtitle: 'Get started today, '
     actions:
       - label: Get Started
         url: /signup
