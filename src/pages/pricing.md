@@ -15,7 +15,7 @@ sections:
           * Unlimited policies
           * Unlimited historical data
           * Automated email reminders
-          * Personalised user setup and policy import included
+          * User setup and policy import included
           * Email support
         actions:
           - label: Order Now
