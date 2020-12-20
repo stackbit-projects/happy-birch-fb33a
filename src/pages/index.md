@@ -50,8 +50,8 @@ sections:
         image: images/feature3.png
         image_alt: App user profile preview
         content: >-
-          Detailed audit trail of who has read what, when. Reduce the time it
-          takes to produce information for quality and compliance inspections.
+          Easily evidence who has read what, when. Information is always to hand
+          for quality and compliance inspections, be it planned or unannounced.
         actions:
           - label: Learn More
             url: /features
