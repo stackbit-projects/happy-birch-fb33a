@@ -16,6 +16,8 @@ sections:
           * Unlimited historical data
           * Automated email reminders
           * Email support
+          ---
+          * Initial setup and policy import included
         actions:
           - label: Order Now
             url: /signup
