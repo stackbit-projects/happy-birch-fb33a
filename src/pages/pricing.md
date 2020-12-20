@@ -7,7 +7,7 @@ sections:
     title: 'Ultra Simple, Flat Rate Pricing'
     subtitle: 'No hidden additional costs, and 30 day money back guarantee!'
     pricing_plans:
-      - title: Basic
+      - title: Professional
         subtitle: Per user pricing
         price: £4/m
         details: |
