@@ -62,7 +62,7 @@ sections:
   - section_id: call-to-action
     type: section_cta
     title: Request a demo today!
-    subtitle: 'Get started today, '
+    subtitle: Get started today. 30 day money back guarentee
     actions:
       - label: Get Started
         url: /signup
