@@ -22,7 +22,7 @@ sections:
             style: secondary
       - title: Professional
         subtitle: For medium-sized businesses
-        price: £/m
+        price: £4/m/user
         details: |
           * Unlimited users
           * Unlimited policies
