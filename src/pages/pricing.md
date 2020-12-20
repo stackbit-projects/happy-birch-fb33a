@@ -10,14 +10,13 @@ sections:
       - title: Basic
         subtitle: For small businesses
         price: £59/m
-        details: |-
+        details: |
           * Up to 50 active users
           * Unlimited policies
           * Unlimited historical data
           * Automated email reminders
+          * Personalised user setup and policy import included
           * Email support
-          ---
-          * Initial setup and policy import included
         actions:
           - label: Order Now
             url: /signup
