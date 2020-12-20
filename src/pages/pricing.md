@@ -5,7 +5,7 @@ sections:
     type: section_pricing
     background: gray
     title: 'Ultra Simple, Flat Rate Pricing'
-    subtitle: 'No hidden additional costs, 30 day money back guarantee!'
+    subtitle: 'No hidden additional costs, and 30 day money back guarantee!'
     pricing_plans:
       - title: Basic
         subtitle: For small businesses
