@@ -7,8 +7,8 @@ sections:
     image_alt: App preview
     title: The easy way to manage policies and procedures
     content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site. 
+      The painless way to ensure your team are up-to-date on company policies,
+      procedures and SOP's.
     actions:
       - label: Learn More
         url: /features
