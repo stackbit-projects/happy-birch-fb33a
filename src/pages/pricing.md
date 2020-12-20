@@ -29,11 +29,13 @@ sections:
     faq_items:
       - question: Do you offer a setup or data import service?
         answer: >-
-          Ut cursus, nunc vitae hendrerit viverra, massa ipsum congue quam, sed
-          tempus mauris lacus sit amet nibh. Curabitur laoreet est maximus
-          mollis feugiat. Praesent nibh libero, placerat et justo at, luctus
-          tristique enim. Pellentesque habitant morbi tristique senectus et
-          netus et malesuada fames ac turpis egestas.
+          Yes! We understand there's a lot to get setup before your team can
+          make full use of the system. We offer a bespoke onboarding solution to
+          all customers. This currently includes bulk setup of staff user
+          accounts, and import policies. You can provide policies to us in most
+          document formats including PDF and Word Doc.
+
+          We offer this solution at a flat rate of £199.
       - question: Aliquam eget purus ante?
         answer: >-
           Nunc sollicitudin libero tincidunt felis pretium, consectetur aliquam
