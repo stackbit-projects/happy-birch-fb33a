@@ -62,7 +62,7 @@ sections:
   - section_id: call-to-action
     type: section_cta
     title: Request a demo today!
-    subtitle: This is an optional description for the call to action block.
+    subtitle: 'We''d love to run you through the '
     actions:
       - label: Get Started
         url: /signup
