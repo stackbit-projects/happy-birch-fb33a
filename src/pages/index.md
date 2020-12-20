@@ -63,8 +63,8 @@ sections:
     type: section_cta
     title: Request a demo today!
     subtitle: >-
-      We know policies aren't the most exciting thing, but let's make managing
-      them simple!
+      We know policies aren't the most exciting thing, but let's at least make
+      managing them simple!
     actions:
       - label: Get Started
         url: /signup
