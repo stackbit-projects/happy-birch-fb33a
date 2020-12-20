@@ -5,7 +5,7 @@ sections:
     type: section_pricing
     background: gray
     title: Simple Pricing
-    subtitle: 30 day money back guarnete e
+    subtitle: 30 day money back guarantee!
     pricing_plans:
       - title: Basic
         subtitle: For small businesses
