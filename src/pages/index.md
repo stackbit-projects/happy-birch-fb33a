@@ -61,7 +61,7 @@ sections:
             icon_position: right
   - section_id: call-to-action
     type: section_cta
-    title: Streamline your policies today!
+    title: Get started today.
     subtitle: Get started today. 30 day money back guarantee.
     actions:
       - label: Get Started
