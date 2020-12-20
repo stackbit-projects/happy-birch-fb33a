@@ -5,7 +5,7 @@ sections:
     type: section_pricing
     background: gray
     title: Simple Pricing
-    subtitle: You can have a separate pricing page or list everything on the home page.
+    subtitle: 30 day money back guarnete e
     pricing_plans:
       - title: Basic
         subtitle: For small businesses
