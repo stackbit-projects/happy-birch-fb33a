@@ -17,7 +17,7 @@ sections:
     type: section_features
     background: gray
     title: Features
-    subtitle: Find out what makes us a no brainer for your team.
+    subtitle: Find out what makes us a no-brainer for your team.
     features:
       - title: The Best Feature of Your Services
         image: images/feature1.png
