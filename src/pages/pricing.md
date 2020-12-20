@@ -45,12 +45,9 @@ sections:
           system.
       - question: What does email support include?
         answer: >-
-          Nullam quis ultrices ipsum. Integer eleifend laoreet quam, ac
-          dignissim nisi mollis eget. Ut vitae nisi sit amet nisi suscipit
-          dictum faucibus eget magna. Vivamus in hendrerit magna, non
-          pellentesque metus. Morbi orci odio, dictum at efficitur sit amet,
-          luctus in ipsum. Nunc pellentesque mi vel dui vulputate, a lobortis
-          lacus venenatis. Phasellus pellentesque dolor id feugiat faucibus.
-          Etiam vehicula nunc velit, in consequat nisl feugiat nec.
+          Email support is as simple as it sounds. You'll have access to your
+          account manager via email. We pride ourselves on great customer
+          support, and do our best to get back to all support queries the same
+          working day.
 template: landing
 ---
