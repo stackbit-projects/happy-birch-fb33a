@@ -5,7 +5,7 @@ sections:
     type: section_hero
     image: images/1.jpg
     image_alt: App preview
-    title: 'Improve quality, ensure compliance.'
+    title: 'Improve quality, ensure compliance, and save time.'
     content: >-
       The painless way to ensure your team are up-to-date on company policies,
       procedures and SOP's.
