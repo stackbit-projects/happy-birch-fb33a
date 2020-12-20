@@ -9,7 +9,7 @@ sections:
     pricing_plans:
       - title: Basic
         subtitle: For small businesses
-        price: £59/m
+        price: £4/m
         details: |
           * Up to 50 active users
           * Unlimited policies
