@@ -11,7 +11,7 @@ sections:
         subtitle: Per user pricing
         price: £4/m
         details: |
-          * Up to 50 active users
+          * Unlimited users
           * Unlimited policies
           * Unlimited historical data
           * Automated email reminders
