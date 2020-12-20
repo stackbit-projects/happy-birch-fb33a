@@ -22,7 +22,7 @@ sections:
             url: /signup
             style: primary
       - title: Enterprise
-        subtitle: For very large businesses
+        subtitle: T
         price: $149/m
         details: |-
           * Vestibulum non eros quis
