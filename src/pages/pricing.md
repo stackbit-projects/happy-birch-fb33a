@@ -16,19 +16,6 @@ sections:
           * Unlimited historical data
           * Automated email reminders
           * Email support
-        actions:
-          - label: Order Now
-            url: /signup
-            style: secondary
-      - title: Professional
-        subtitle: Per user pricing
-        price: £4/m
-        details: |
-          * Unlimited users
-          * Unlimited policies
-          * Unlimited historical data
-          * Automated email reminders
-          * Email support
         highlight: true
         actions:
           - label: Order Now
