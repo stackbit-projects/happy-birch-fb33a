@@ -42,5 +42,11 @@ sections:
     subtitle: lorem-ipsum
     actions: []
     type: section_cta
+  - section_id: lorem-ipsum
+    title: lorem-ipsum
+    subtitle: lorem-ipsum
+    background: gray
+    features: []
+    type: section_features
 template: landing
 ---
