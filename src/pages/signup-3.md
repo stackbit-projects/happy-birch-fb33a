@@ -6,7 +6,7 @@ canonical_url: lorem-ipsum
 no_index: false
 sections:
   - section_id: lorem-ipsum
-    title: lorem-ipsum
+    title: Request Early Access
     subtitle: lorem-ipsum
     content: >-
       ## Lorem ipsum
