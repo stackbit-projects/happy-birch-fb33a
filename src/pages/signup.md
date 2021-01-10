@@ -1,8 +1,6 @@
 ---
 title: Request Early Access
-subtitle: >-
-  This is an optional subtitle. It can be used to describe what this page is
-  about.
+subtitle: 'Hey, we''re just getting started, but we''d love for you to get a sneek peek '
 image: images/11.jpg
 image_alt: Office desk top view
 template: page
