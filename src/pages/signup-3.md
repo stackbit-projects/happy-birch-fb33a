@@ -1,7 +1,7 @@
 ---
 title: Request Early Access
 meta_title: Request Early Access
-meta_description: lorem-ipsum
+meta_description: Request Early Access
 canonical_url: lorem-ipsum
 no_index: false
 sections:
