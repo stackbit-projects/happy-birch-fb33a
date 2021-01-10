@@ -1,6 +1,8 @@
 ---
 title: Request Early Access
-subtitle: 'Hey, we''re just getting started, but we''d love for you to get a sneak peek.'
+subtitle: >-
+  Hey, we're just getting started, but we'd love for you to get a sneak peek.
+  Simply fill in the form below to request early access!
 image: images/11.jpg
 image_alt: Office desk top view
 template: page
