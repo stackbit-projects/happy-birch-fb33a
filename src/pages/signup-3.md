@@ -40,7 +40,7 @@ sections:
         type: form_field
       - input_type: text
         name: lorem-ipsum
-        label: Approx. Number of users
+        label: Approx. number of users
         default_value: lorem-ipsum
         options: []
         is_required: false
