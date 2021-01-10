@@ -7,7 +7,7 @@ no_index: false
 sections:
   - section_id: lorem-ipsum
     title: Request Early Access
-    subtitle: lorem-ipsum
+    subtitle: ''
     content: >-
       Hey, we're just getting started, but we'd love for you to get a sneak
       peek. Simply fill in the form below to request early access!
