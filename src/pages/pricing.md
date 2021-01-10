@@ -18,7 +18,7 @@ sections:
           * Email support
         highlight: true
         actions:
-          - label: Get Started
+          - label: Get Started Now
             url: /signup
             style: primary
   - section_id: faq
